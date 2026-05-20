@@ -1,0 +1,4 @@
+-dir      =List files in current folder
+-cd foldername     =Go into a folder
+-cd ..             =Go back one folder
+-cd \              =Go to root directory
